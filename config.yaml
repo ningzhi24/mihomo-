@@ -63,7 +63,7 @@ proxy-providers: # ← 此函数位置请勿变动！此为模块更新时备份
     override:
       additional-prefix: "Main："
     path: ./proxies/1.主要地址.yaml
-    url: "https://45.137.181.206/api/v1/client/subscribe?token=424b6fcad5f1079ea0fc0642a68b46e5"
+    url: "引入您的Clash订阅链接地址"
 
   2.备用地址:
     <<: *p
